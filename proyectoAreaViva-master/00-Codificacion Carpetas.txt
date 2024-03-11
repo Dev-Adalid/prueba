@@ -1,0 +1,4 @@
+00 -> 10: ducumentos generales que sirvan como información para trabajo.
+10 -> 50: script de apoyo para el proyecto general que no formaran parte del producto final.
+"xxxxxx": carpeta con nombre del programa a definir.
+ 
